@@ -1,4 +1,5 @@
 # grasssloper
+![Ex of sloper pattern](grasssloper-ex.png?raw=true "Sloper example")
 grasssloper is a grasshopper script that draws a sloper pattern for you from human body measurements.
 A sloper is a 2D drawing-a pattern-that provides the basis for a 3 dimensional garment that fits accurately. Currently grasssloper contains a torso block and a skirt block; sleeve and pant blocks are to be added.
 
